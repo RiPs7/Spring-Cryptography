@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Cybersecurity
+
+server:
+  port: 8080
+
+api:
+  basePath: /api
